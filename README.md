@@ -68,4 +68,8 @@ const Amit_Sarah_Pal = {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamitpal)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamitpal)](https://github.com/anuraghazra/github-readme-stats)
+
 ### It was nice meeting you :octocat: what about a follow and let's connect! :upside_down_face:
