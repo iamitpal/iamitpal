@@ -66,4 +66,4 @@ const Amit_Sarah_Pal = {
 
 <br>
 
-### It was nice meeting you :handshake: what about a follow and let's connect! :raised_hands:
+### It was nice meeting you :upside_down_face: what about a follow and let's connect! :raised_hands:
