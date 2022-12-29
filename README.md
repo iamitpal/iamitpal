@@ -20,7 +20,7 @@
 ```JavaScript
 const Amit_Sarah_Pal = {
  name :"Amit Sarah Pal",
- acknowledgements :"Software Development",
+ acknowledgements :"Full Stack Web Development",
  languages :["JavaScript", "React", "TypeScript", "NodeJs"]
 }
 ```
