@@ -75,5 +75,4 @@ const Amit_Sarah_Pal = {
   <br>
 <!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamitpal)](https://github.com/anuraghazra/github-readme-stats) -->
   
-<br>
 ### It was nice meeting you :octocat: what about a follow and let's connect! :upside_down_face:
