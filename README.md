@@ -17,9 +17,19 @@
 </h3>
 <br>
 
+```JavaScript
+const Amit_Sarah_Pal = {
+ name :"Amit Sarah Pal",
+ acknowledgements :"Software Development",
+ languages :["JavaScript", "React", "TypeScript", "NodeJs"]
+}
+```
+
+ <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
+
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
-<h2><i>Tech Stack</i></h2>
+## Languages and Tools
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -43,17 +53,17 @@
 <br>
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
+## Contacts Me
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/amitsarahpal/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
-    </a>
-    <a href="https://twitter.com/iamit_pal">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
-    </a>
-    <a title="amitpalinfo@yahoo.in" href="mailto:amitpalinfo@yahoo.in">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
-    </a>
-</p>
+<div align="center">
+<a href="https://twitter.com/iamit_pal"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:amitpalinfo@yahoo.in"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/amitsarahpal/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://iamitpal.github.io"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+ </div>
+
+ <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
+
 <br>
+
+### It was nice meeting you :revolving_hearts: what about a follow and let's connect! :raised_hands:
