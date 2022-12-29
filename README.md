@@ -66,4 +66,4 @@ const Amit_Sarah_Pal = {
 
 <br>
 
-### It was nice meeting you :upside_down_face: what about a follow and let's connect! :octocat:
+### It was nice meeting you :octocat: what about a follow and let's connect! :upside_down_face:
