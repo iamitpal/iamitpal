@@ -13,7 +13,7 @@
 </h3>
 
 <h3>
-    <i>- Currently learning Full Stack Developer program from Masai School (Bengluru)</i>
+    <i>- Currently learning Full Stack Developer program from Masai School (Bangalore)</i>
 </h3>
 <br>
 
