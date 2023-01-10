@@ -8,8 +8,13 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<img src='https://i.ibb.co/9cFKpn4/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png' alt='banner' />
-<h3 align="center">I am a full-Stack Web Developer from Masai School, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
+<h3>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+</h3>
+
+<h3>
+    <i>- Currently learning Full Stack Developer program from Masai School (Bengluru)</i>
+</h3>
 <br>
 
 ```JavaScript
@@ -60,6 +65,14 @@ const Amit_Sarah_Pal = {
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamitpal)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamitpal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamitpal)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### It was nice meeting you :octocat: what about a follow and let's connect! :upside_down_face:
 
