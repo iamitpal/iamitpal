@@ -8,13 +8,19 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
+<<<<<<< HEAD
+<img src='https://i.ibb.co/9cFKpn4/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png' alt='banner' />
+
+# <h3 align="center">I am a full-Stack Web Developer from Masai School, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
+
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
 <h3>
-    <i>- Currently learning Full Stack Developer program from Masai School (Bengluru)</i>
+    <i>- Currently learning Full Stack Web Development from Masai School (Bangalore)</i>
 </h3>
+>>>>>>> 5d76dd56353dc332f2b18e6ac167656f9d648d69
 <br>
 
 ```JavaScript
