@@ -36,7 +36,7 @@ const Amit_Sarah_Pal = {
 - 📫 My Portfolio : **https://iamitpal.github.io**
 - 📫 How to reach me **amitpalinfo@yahoo.in**
 
-## Let's Connect !!
+## Let's Connect !! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i>
 
 <p align="left">
 <p align="left">
