@@ -8,13 +8,8 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
-</h3>
-
-<h3>
-    <i>- Currently learning Full Stack Developer program from Masai School (Bengluru)</i>
-</h3>
+<img src='https://i.ibb.co/9cFKpn4/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png' alt='banner' />
+<h3 align="center">I am a full-Stack Web Developer from Masai School, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
 <br>
 
 ```JavaScript
@@ -67,3 +62,9 @@ const Amit_Sarah_Pal = {
 <br>
 
 ### It was nice meeting you :octocat: what about a follow and let's connect! :upside_down_face:
+
+<!--
+
+[url=https://ibb.co/Xjh0WX5][img]https://i.ibb.co/9cFKpn4/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png[/img][/url]
+
+ -->
