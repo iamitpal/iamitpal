@@ -8,7 +8,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<img align="center" src='https://i.ibb.co/9cFKpn4/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png' alt='banner' />
+<img width=640px height=320px src='https://i.ibb.co/9cFKpn4/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png' alt='banner' />
 
 # <h3 align="center">I am a full-Stack Web Developer from Masai School, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
 
