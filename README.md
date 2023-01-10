@@ -23,8 +23,7 @@ const Amit_Sarah_Pal = {
 }
 ```
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamitpal" alt="iamitpal" /></a> </p>
+<br/>
 
 - 🔭 I’m currently working on **DSA**
 
@@ -58,6 +57,11 @@ const Amit_Sarah_Pal = {
 
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamitpal&show_icons=true&locale=en&layout=compact" alt="iamitpal" /></p>
+
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamitpal" alt="iamitpal" /></a> </p>
+
+<br/>
 
 ### It was nice meeting you :octocat: what about a follow and let's connect! :upside_down_face:
 
