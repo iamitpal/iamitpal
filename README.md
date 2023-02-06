@@ -18,7 +18,7 @@
 const Amit_Sarah_Pal = {
  name :"Amit Sarah Pal",
  acknowledgements :"Full Stack Web Development",
- languages :["JavaScript", "React", "TypeScript", "NodeJs"]
+ languages :["React", "NodeJS", "ExpressJS", "mongodb","NextJS","Typescript"]
 }
 ```
 
@@ -61,11 +61,13 @@ const Amit_Sarah_Pal = {
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamitpal" alt="iamitpal" /></a> </p>
 
 <br/>
-
-### It was nice meeting you :octocat: what about a follow and let's connect! :upside_down_face:
+<div align="center">
+<img width=auto height=auto src='https://i.postimg.cc/6qGwC53y/github.png' alt='banner' />
+</div>
+###  It was nice meeting you :octocat: what about a follow and let's connect! :upside_down_face:
 
 <!--
-
+https://i.postimg.cc/6qGwC53y/github.png
 [url=https://ibb.co/Xjh0WX5][img]https://i.ibb.co/9cFKpn4/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png[/img][/url]
 
 [url=https://ibb.co/rHh2Wrs][img]https://i.ibb.co/NKq24BS/Black-Minimalist-Motivation-Quote-Linked-In-Banner-2.png[/img][/url]
