@@ -32,7 +32,7 @@ const Amit_Sarah_Pal = {
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Node Js and DSA**
 
-- 📫 My Portfolio : **https://iamitpal.github.io**
+- 📫 My Portfolio : **https://iamitpal.vercel.app**
 - 📫 How to reach me **amitpalinfo@yahoo.in**
 
 ## Let's Connect !!
